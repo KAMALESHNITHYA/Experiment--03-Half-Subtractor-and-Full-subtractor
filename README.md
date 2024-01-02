@@ -45,36 +45,36 @@ Diff = A ⊕ B ⊕ Bin B = A'Bin + A'B + BBin
 ## Program:
 
 ## HALF SUBTRACTOR
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/dd691f0c-3b9b-43ab-bbee-88f3bb6c5630)
 
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/6e236fc9-ad1e-4a87-89e5-f3440e3c286f)
 
 ## FULL SUBTRACTOR
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/bd686e95-6051-41b0-befb-d5ebdf8ddc80)
 
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/575fa11e-ebcb-455d-94df-283764eb3562)
 
 ## TRUTHTABLE
 
 ## HALF SUBTRACTOR
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/d1b97e14-da33-4761-9d4a-176ea63987de)
 
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/e0e94ec6-ac3c-49e3-b4ee-7efde314095b)
 
 ## FULL SUBTRACTOR
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/f57b5778-34c2-4e27-be0c-f160cf2fdbb0)
 
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/1c0c476d-627a-4ed8-a487-4b875498a4bc)
 
 ## RTL
 ## HALF SUBTRACTOR
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/5513b696-9446-45ee-b16a-6161b47d491c)
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/208a637d-c3fb-45f5-ab6c-b1db8b2bf10a)
 
 ## FULL SUBTRACTOR
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/cb4966ae-9401-4e24-a1e3-e5b89325e6d2)
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/47b5c34a-1176-49eb-882d-d3a379f720bf)
 
 ## Timing diagram 
 ## HALF SUBTRACTOR
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/fc6673b6-ee69-465c-b3a9-992efd3e38f0)
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/b8220b56-ce61-4b1b-ac5c-9ecf8a3e093e)
 
 ## FULL SUBTRACTOR
-![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/5b9f7f7e-9a9b-424c-85fe-ea2df4b75aad)
+![image](https://github.com/KAMALESHNITHYA/Experiment--03-Half-Subtractor-and-Full-subtractor/assets/145743119/ac2b7faa-e33d-4130-b044-f864031b1bc8)
 
 
 
